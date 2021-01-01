@@ -1,63 +1,63 @@
 // SansSerif
 @font-face {
-  font-family: 'Plex';
-  src: url('#{$static-path}/fonts/IBMPlexSans-Light.ttf') format('truetype');
+  font-family: 'Silka Mono';
+  src: url('#{$static-path}/fonts/silkamono-light-webfont.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-LightItalic.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-lightitalic-webfont.ttf') format('truetype');
   font-weight: 300;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-Regular.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-regular-webfont.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-Italic.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-regularitalic-webfont.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-SemiBold.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-semibold-webfont.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-SemiBoldItalic.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-semibolditalic-webfont.ttf') format('truetype');
   font-weight: 600;
   font-style: italic;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-Bold.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-bold-webfont.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Plex';
+  font-family: 'Silka Mono';
   src:
-    url('#{$static-path}/fonts/IBMPlexSans-BoldItalic.ttf') format('truetype');
+    url('#{$static-path}/fonts/silkamono-bolditalic-webfont.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
 }
